@@ -17,7 +17,7 @@
 
 - Unit I – C++ Programming Basics and OOP Concepts
 - Unit II – Inheritance
-
+- Unit III – Polymorphism
 ---
 
 # Unit I
@@ -56,6 +56,27 @@
 15. Vehicle Rental Mini-Project
 16. Employee Payroll Mini-Project
 
+---
+# Unit III – Polymorphism
+
+### Programs
+
+1. Function Overloading
+2. Area Calculator
+3. Unary Minus Operator
+4. Prefix and Postfix Increment
+5. Complex Number Addition
+6. Distance Comparison
+7. Friend/Non-Member Operator
+8. Base Pointer Without Virtual Function
+9. Base Pointer With Virtual Function
+10. Base Reference With Virtual Function
+11. Abstract Class
+12. Collection of Shape Pointers
+13. Virtual Destructor
+14. Object Slicing
+15. Payment System
+16. Payroll Mini-Project
 ---
 
 ## Description
